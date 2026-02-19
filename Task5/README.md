@@ -5,7 +5,8 @@
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to uncover patterns, trends, and relationships that influenced passenger survival.
 
 The goal is to use statistical and visual techniques to understand the dataset before applying machine learning models.
------
+
+---
 
 ## 🎯 Objective
 
