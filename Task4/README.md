@@ -1,10 +1,10 @@
-📊 TASK-4:Executive Sales Performance Dashboard
+## 📊 TASK-4:Executive Sales Performance Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on designing an interactive dashboard for business stakeholders using the Superstore Sales dataset. The dashboard provides insights into sales performance, profitability, growth trends, and regional analysis to support data-driven decision making.
 
-🎯 Objective
+## 🎯 Objective
 
 1.To create a professional and interactive dashboard that:
 
@@ -18,15 +18,15 @@ This project focuses on designing an interactive dashboard for business stakehol
 
 6.Enables dynamic filtering for deeper analysis
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 Tableau
 
-📂 Dataset
+## 📂 Dataset
 
 Superstore Sales Dataset (Kaggle)
 
-📈 Key Performance Indicators (KPIs)
+## 📈 Key Performance Indicators (KPIs)
 
 Total Sales: ₹ 22,97,201
 
@@ -36,7 +36,7 @@ Profit Margin: 12.46%
 
 These KPIs provide a high-level overview of business performance.
 
-📊 Dashboard Components
+## 📊 Dashboard Components
 
 1.KPI Summary Cards
 
@@ -48,7 +48,7 @@ These KPIs provide a high-level overview of business performance.
 
 5.Interactive Filters
 
-💡 Key Business Insights
+## 💡 Key Business Insights
 
 The business generated ₹22.9L in total sales.
 
@@ -60,6 +60,6 @@ West region shows strong sales performance.
 
 Monthly sales show seasonal growth patterns.
 
-📌 Conclusion
+## 📌 Conclusion
 
 The Executive Sales Performance Dashboard provides a clear, interactive, and data-driven overview of business performance, enabling stakeholders to make informed strategic decisions efficiently.
