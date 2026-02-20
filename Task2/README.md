@@ -1,4 +1,6 @@
-Task 2: Data Visualization & Storytelling 📌 Project Overview This project analyzes the Sample Superstore dataset using Tableau to uncover key business insights related to sales performance, profitability, discount impact, and product performance.
+## Task 2: Data Visualization & Storytelling 
+## 📌 Project Overview 
+This project analyzes the Sample Superstore dataset using Tableau to uncover key business insights related to sales performance, profitability, discount impact, and product performance.
 
 The goal of this dashboard is to help business stakeholders understand:
 
@@ -12,7 +14,7 @@ The goal of this dashboard is to help business stakeholders understand:
 
 5.Impact of discounts on profit
 
-📁 Dataset
+## 📁 Dataset
 
 Dataset: Sample Superstore
 
@@ -20,7 +22,7 @@ Data includes: Orders, Sales, Profit, Discount, Region, Category, Product, and O
 
 Time period: 2014–2017
 
-📈 Charts Created
+## 📈 Charts Created
 
 1️⃣ Sales Trend Over Time
 
@@ -32,7 +34,7 @@ Time period: 2014–2017
 
 5️⃣ Discount vs Profit Analysis
 
-📤 Output
+## 📤 Output
 
 Visual dashboard (attached)
 
