@@ -1,16 +1,16 @@
-📊 Task 3: SQL for Data Analysis
+## 📊 Task 3: SQL for Data Analysis
 
-🎯 Objective
+## 🎯 Objective
 
 The objective of this task is to use SQL queries to extract, manipulate, and analyze data from a structured Ecommerce database. This task helps in understanding how SQL is used for real-world data analysis.
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 MySQL (Command Line)
 
 SQL
 
-🗂 Dataset Used
+## 🗂 Dataset Used
 
 Ecommerce_SQL_Database
 
@@ -26,7 +26,7 @@ Order_Items
 
 These tables are connected using primary keys and foreign keys to maintain relational integrity.
 
-🧱 Database Operations Performed
+## 🧱 Database Operations Performed
 
 1.Use SELECT, WHERE, ORDER BY, GROUP BY for filtering and sorting data.
 
@@ -40,7 +40,7 @@ These tables are connected using primary keys and foreign keys to maintain relat
 
 6.Learn basic query optimization techniques.
 
-📂 Deliverables
+## 📂 Deliverables
 
 task3.sql file containing all SQL queries.
 
