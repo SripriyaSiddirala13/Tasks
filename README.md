@@ -1,8 +1,10 @@
-Task 1 – Data Cleaning and Preprocessing 📌 Objective
+Task 1 – Data Cleaning and Preprocessing 
+
+## 📌 Objective
 
 The objective of this task is to clean and prepare a raw dataset containing missing values, duplicate records, and inconsistent formats using Python (Pandas).
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 Python
 
@@ -10,7 +12,7 @@ Pandas
 
 Jupyter Notebook
 
-📂 Dataset Used
+## 📂 Dataset Used
 
 Dataset selected from Kaggle:
 
